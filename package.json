@@ -1,0 +1,12 @@
+{
+  "name": "@shynnhuy/fonticon",
+  "version": "1.0.2",
+  "description": "The font icon for small project",
+  "keywords": [
+    "font", "icon", "svg"
+  ],
+  "main": "js/fontawesome.js",
+  "style": "css/fontawesome.css",
+  "author": "NnyhS",
+  "license": "UNLICENSE"
+}
